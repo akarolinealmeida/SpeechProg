@@ -6,13 +6,15 @@ paciente máquina, setup, comunicação com hardware, o que estiver mais familia
 daria a utilização do Lokomat® e ZeroG®.**
 Utilização do Lokomat®:
 
-Meça o tamanho da coxa e da perna do paciente
+Meça o comprimento da coxa e da perna do paciente
+Guarde as informações de comprimento da perna do paciente
 Busque o cinto ou blusa do Lokomat no local onde ele está guardado
 Leve o cinto ou blusa do Lokomat até o paciente
 Peça para que o paciente incline o tronco para frente
 Erga o  cinto ou blusa do Lokomat e coloque-o atrás da coluna do paciente, entre a coluna e a cadeira
 Alinhe o local sinalizado por um "M" no cinto ou blusa do Lokomat à coluna do paciente
-Ajuste o cinto ou blusa do Lokomat ao corpo do paciente prendendo-o na frente do corpo
+Ajuste o cinto ou blusa do Lokomat ao corpo do paciente
+Prenda o cinto ou blusa do Lokomat frente do corpo do paciente
 Feche todas as travas do cinto ou blusa do Lokomat
 Após fechar as travas, puxe cada corda da trava para ajustá-lo ao corpo do paciente
 Leve o paciente até o local indicado (plataforma) para uso do Lokomat na plataforma
@@ -23,7 +25,7 @@ Prenda as alças pretas que estão no Lokomat aos ganchos de cor prata que estar
 Acione o botão que liga a barra com ganchos
 Espere que a barra com ganchos suba e erga o paciente que está preso ao Lokomat
 Se a barra não subir, cheque o que houve
-Ajude o paciente removendo sua cadeira quando ele for erguido
+Retire a cadeira do pacinte após ele ser erguido
 Peça que o paciente segure com as duas mãos nas barras laterais de cor branca da plataforma Lokomat
 Posicione a parte do suporte de tronco do Lokomat na plataforma
 Ajuste o suporte de tronco às costas do paciente
@@ -46,13 +48,14 @@ Selecione a opção "Stop" na tela do computador
 Pressione os botões do controle do equipamento para baixar a barra de suporte com ganchos, que está conectada ao paciente
 Se o equipamento não baixar a barra com o paciente, pressione novamente no botão
 Espere até o paciente encostar os pés na esteira
+Após o paciente encostar os pés na esteira, inicie novamente o movimento do Lokomat
 Observe o paciente caminhar na esteira com auxílio do Lokomat
 Mostre ao paciente o gráfico na tela do computador
+Registrar gráfico do paciente
 Observe enquanto o gráfico monitora o movimento do Lokomat
 Fique o tempo necessário para treino de movimento com o paciente
 Pare o equipamento no botão "Stop"
 Retire o paciente do equipamento, trazendo de volta sua cadeira e desafivelando todas as fivelas
-
 
 Utilização do ZeroG®:
 Posicione o paciente de pé
@@ -77,6 +80,36 @@ Retire o paciente do equipamento, desafivelando todas as fivelas
 
 **2. A partir das informações colocadas no texto da questão 1, destacar o que seriam memória,
 processamento, entrada/saída:**
+Memória:
+"Guarde as informações de comprimento da perna do paciente"
+"Paciente foi erguido"
+"Registre o gráfico de movimento do paciente"
+
+Processamento:
+"Meça o tamanho da coxa e da perna do paciente"
+"Busque o cinto ou blusa do Lokomat no local onde ele está guardado"
+"Leve o cinto ou blusa do Lokomat até o paciente"
+"Peça para que o paciente incline o tronco para frente"
+"Erga o cinto ou blusa do Lokomat e coloque-o atrás da coluna do paciente, entre a coluna e a cadeira"
+"Alinhe o local sinalizado por um "M" no cinto ou blusa do Lokomat à coluna do paciente"
+"Ajuste o cinto ou blusa do Lokomat ao corpo do paciente"
+"Prenda o cinto ou blusa do Lokomat frente do corpo do paciente"
+"Feche todas as travas do cinto ou blusa do Lokomat"
+"Ajuste o cinto ou blusa do Lokomat ao corpo do paciente";
+"Leve o paciente até o local indicado (plataforma)"
+"Pegue o controle da plataforma Lokomat"
+"Aperte o botão "ligar" do controle"
+"Posicione uma corda com fivela e trava de segurança embaixo dos pés do paciente";
+
+Entrada:
+Mouse
+Controle
+Teclado
+
+Saída:
+Monitor
+Gráfico no monitor
+Tablet
 
 
 **3. A partir das informações colocadas no texto da questão 1, destacar o que seriam as estruturas de
